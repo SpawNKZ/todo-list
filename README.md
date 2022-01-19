@@ -23,4 +23,4 @@ And then start the server (default: http://localhost:8000)
 
 # Short video how it looks like
 
-[![todo-list](https://img.youtube.com/vi/ifk1yE8g3Qc)](https://www.youtube.com/watch?v=ifk1yE8g3Qc)
+[![todo-list](https://img.youtube.com/watch?v=ifk1yE8g3Qc)](https://www.youtube.com/watch?v=ifk1yE8g3Qc)
