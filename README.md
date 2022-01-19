@@ -21,12 +21,6 @@ And then start the server (default: http://localhost:8000)
     python manage.py runserver
 
 
-Now you can browse the [API](http://localhost:8000/api/)
-or start on the [landing page](http://localhost:8000/)
+# Short video how it looks like
 
-
-[license-url]: https://github.com/rtzll/django-todolist/blob/master/LICENSE
-[license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
-
-[travis-url]: https://travis-ci.org/rtzll/django-todolist
-[travis-image]: https://travis-ci.org/rtzll/django-todolist.svg?branch=master
+[![todo-list](https://img.youtube.com/vi/ifk1yE8g3Qc)](https://www.youtube.com/watch?v=ifk1yE8g3Qc)
